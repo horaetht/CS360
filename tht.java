@@ -1,3 +1,3 @@
-public static void main arg[](
-    
+public static void main (String arg[]) (
+
 )
